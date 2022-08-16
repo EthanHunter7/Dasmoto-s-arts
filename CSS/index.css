@@ -6,7 +6,7 @@
     font-size:100px;
     color: khaki;
     text-align: center;
-    background:url('/Resources/images/pattern.webp');
+    background:url('../Resources/images/pattern.jpeg');
     width: 100% auto;
     z-index: 1;
 }
